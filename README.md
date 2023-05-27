@@ -22,7 +22,7 @@ Time capsule containing the most important moments of my career | Cápsula do te
 </p>
 
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
